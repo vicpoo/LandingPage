@@ -1,0 +1,21 @@
+#TextoGrande {
+    width: 60%;
+    height: 1100px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 10px;
+    right: 17%;
+}
+
+#ImgAudio {
+    width: 25%;
+    height: 1100px;
+    margin: auto;
+    background-color: rgb(67, 131, 101);;
+    color: white;
+    position: relative;
+    bottom: 1090px;
+    left: 30%;
+}

@@ -1,0 +1,23 @@
+#footer {
+    width: 100%;
+    height: 300px;
+    background-color: #a87b05;
+    position: relative;
+    bottom: 1000px;
+}
+
+#footerName {
+    width: 100%;
+    height: 40px;
+    background-color: #8b6c1c;
+    position: relative;
+    bottom: 1020px;
+}
+
+#creditos {
+    width: 100%;
+    height: 40px;
+    background-color: #5e4b1a;
+    position: relative;
+    bottom: 1040px;
+}
